@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Barons&apos; War" indexUrl="https://github.com/The-War-Baron/BaronsWar.git" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Barons&apos; War.gst" dataType="gamesystem" dataId="64c6-5bda-e428-c44b" dataName="Barons&apos; War" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Shared Troops (1).cat" dataType="catalogue" dataId="f277-863b-c80a-158e" dataName="Shared Troops" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Dark Ages Command.cat" dataType="catalogue" dataId="8ff0-5f37-126a-9f63" dataName="Dark Ages Command" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Custom.profiles.cat" dataType="catalogue" dataId="fabd-b04b-0132-308a" dataName="Custom profiles" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Barons&apos; War.cat" dataType="catalogue" dataId="0962-698e-ad24-c625" dataName="Barons&apos; War" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Outlaws.cat" dataType="catalogue" dataId="1ab9-3a6b-6196-7f26" dataName="Outlaws" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Command.cat" dataType="catalogue" dataId="de04-24ed-2b94-b426" dataName="Command" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Norman.cat" dataType="catalogue" dataId="f741-0416-02ad-ef50" dataName="Norman" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Welsh (Barons&apos; War).cat" dataType="catalogue" dataId="3fe1-7bb7-5efb-34f7" dataName="Welsh (Barons&apos; War)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Welsh.cat" dataType="catalogue" dataId="d796-4a23-134b-2ffa" dataName="Welsh" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Scots (Barons&apos; War).cat" dataType="catalogue" dataId="2abf-6cf6-1b97-2b23" dataName="Scots (Barons&apos; War)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Viking (1).cat" dataType="catalogue" dataId="acae-9305-5aed-09cd" dataName="Viking" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Mercenary.cat" dataType="catalogue" dataId="ed0b-9b4a-e83a-1975" dataName="Mercenery" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Saxon (1).cat" dataType="catalogue" dataId="be8a-60b5-331d-8ed0" dataName="Saxon" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Welsh (Conquest).cat" dataType="catalogue" dataId="d6a0-1697-7676-340e" dataName="Welsh (Conquest)" dataBattleScribeVersion="2.03" dataRevision="2"/>
+  </dataIndexEntries>
+</dataIndex>

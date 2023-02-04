@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="d796-4a23-134b-2ffa" name="Welsh" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="64c6-5bda-e428-c44b" gameSystemRevision="3" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="5491-b2b4-fb3d-1e9f" name="Spearmen" hidden="false" collective="false" import="true" targetId="e2fd-9732-ab29-d878" type="selectionEntry"/>
+    <entryLink id="5950-4c29-1a17-aa70" name="Poor Warriors" hidden="false" collective="false" import="true" targetId="d14a-1d68-a3d3-9145" type="selectionEntry"/>
+    <entryLink id="3064-54ad-234c-1dc9" name="Slingers" hidden="false" collective="false" import="true" targetId="5023-c443-c8eb-20ff" type="selectionEntry"/>
+    <entryLink id="445c-9f85-da68-6002" name="Hearthguards" hidden="false" collective="false" import="true" targetId="f98d-1aca-6398-94fc" type="selectionEntry"/>
+    <entryLink id="79f3-15b9-7810-df57" name="Javelin Skirmishers" hidden="false" collective="false" import="true" targetId="d49c-9cda-cf15-1b4b" type="selectionEntry"/>
+    <entryLink id="4ff0-d614-9ea6-b9e3" name="Knifemen" hidden="false" collective="false" import="true" targetId="625d-6b29-a716-fea2" type="selectionEntry"/>
+    <entryLink id="5424-fe3c-aa65-fb47" name="Llywelyn ap Gruffudd, Prince of Wales" hidden="false" collective="false" import="true" targetId="c1e8-127b-f702-b2d9" type="selectionEntry"/>
+    <entryLink id="5956-2681-a327-f8e5" name="Knights" hidden="false" collective="false" import="true" targetId="50b9-e9ce-6be2-fa7f" type="selectionEntry"/>
+    <entryLink id="710b-d840-5ac7-589b" name="Cavalry" hidden="false" collective="false" import="true" targetId="5b78-7359-f42e-379e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9a31-d0df-6e52-fe0b" name="New CategoryLink" hidden="false" targetId="a0c2-2394-b0d0-848a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e806-a7d4-a07a-0b2d" name="Welsh Longbowmen" hidden="false" collective="false" import="true" targetId="fe82-3eb0-b7e9-77a6" type="selectionEntry"/>
+  </entryLinks>
+  <catalogueLinks>
+    <catalogueLink id="218d-daa6-9cce-0dc3" name="Troops" targetId="6022-99dd-88dd-d5a0" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="5483-e72e-0734-2d06" name="Custom profiles" targetId="fabd-b04b-0132-308a" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="fa16-a827-5d47-c4ab" name="Command" targetId="de04-24ed-2b94-b426" type="catalogue" importRootEntries="true"/>
+  </catalogueLinks>
+</catalogue>
